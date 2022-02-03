@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Rustomjee - Aerial 360
+
+## Media
+
+### Title
+panorama_835744B1_BABC_305B_41D8_778BF03809B5.label = 4
+panorama_B3A1FCF6_BA54_31D9_41B0_F3E00C4BC541.label = 5
+panorama_B3A6FB8C_BA54_7049_41E2_0290960DC3D8.label = 6
+
+## Action
+
+### URL
+LinkBehaviour_B57364F8_BA54_31C9_41D1_726C355864DE.source = https://www.rustomjee.com/
